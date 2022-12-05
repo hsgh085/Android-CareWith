@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class Result extends AppCompatActivity {
     TextView scoreTv, resultTv;
     ImageView emotion;
-    Button reBtn;
+    Button reBtn, guideBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +24,7 @@ public class Result extends AppCompatActivity {
         resultTv=findViewById(R.id.resultTv);
         emotion=findViewById(R.id.emotion);
         reBtn=findViewById(R.id.reBtn);
+        guideBtn=findViewById(R.id.guideBtn);
 
         Intent intent=getIntent();
         int score=intent.getIntExtra("Score", 0);
@@ -46,6 +47,16 @@ public class Result extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intentHome = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intentHome);
+            }
+        });
+
+        guideBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                new PreferenceManager(getApplicationContext()).clearPreference();
+                Intent intentGuide = new Intent(getApplicationContext(), GuideActivity.class);
+                startActivity(intentGuide);
+                finish();
             }
         });
 

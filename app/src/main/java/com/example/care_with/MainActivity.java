@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             clickedButton.setBackgroundColor(Color.parseColor("#FAFBBD"));
 
         }
-
     }
 
     void loadNewQuestion(){

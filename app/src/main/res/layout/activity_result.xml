@@ -56,4 +56,12 @@
         android:textSize="22sp"
         android:backgroundTint="@color/dark_green"
         android:padding="10dp"/>
+    <Button
+        android:id="@+id/guideBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="안내 가이드 다시보기"
+        android:textSize="22sp"
+        android:backgroundTint="@color/orange"
+        android:padding="10dp"/>
 </LinearLayout>
