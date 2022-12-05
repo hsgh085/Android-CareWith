@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Care_With</string>
+    <string name="slide1_title">안녕하세요</string>
+    <string name="slide1_detail">&quot;Care With&quot;입니다\n안내가이드를 희망하신다면\n옆으로 넘기거나 다음을 눌러주세요\n\n\n\n*건너뛰기 : 검사 시작</string>
+    <string name="slide1_detail2">( 스킵버튼 : 검사 시작 / 다음버튼 : 간단한 설명 후 검사 시작 )</string>
+
+    <string name="slide2_title">구성</string>
+    <string name="slide2_detail">본 검사는\n&quot;15개&quot;의 지문으로 이루어져 있습니다\n\n\n예상 소요시간 : 5분</string>
+
+    <string name="slide3_title">선택</string>
+    <string name="slide3_detail">지문을 천천히 읽고\n &quot;예/아니요&quot; 버튼을 눌러주세요\n\n\n시간제한이 없는 검사입니다\n 충분히 고민 후 선택해주세요</string>
+
+    <string name="slide4_title">제출</string>
+    <string name="slide4_detail">터치한 응답으로 확정했다면\n&quot;제출&quot;을 눌러 다음 지문으로 넘어갑니다\n\n\n응답에 마음이 바뀐다면\n다시 검사할 수 있습니다</string>
+
+    <string name="slide5_title">시작해볼까요?</string>
+    <string name="slide5_detail">모든 질문에 응답을 입력하면\n&quot;결과화면&quot;에서 결과를 볼 수 있습니다\n\n\n아래 시작 버튼을 누르면 시작합니다</string>
+
+    <string name="my_preference">"com.abc.com.MyPref</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey</string>
+</resources>
