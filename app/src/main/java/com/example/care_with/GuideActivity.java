@@ -19,7 +19,8 @@ public class GuideActivity extends AppCompatActivity implements View.OnClickList
 
     private ViewPager mPager;
     private int[] layouts = {R.layout.slide1, R.layout.slide2,
-            R.layout.slide3, R.layout.slide4, R.layout.slide5};
+            R.layout.slide3, R.layout.slide4, R.layout.slide5,
+            R.layout.slide6, R.layout.slide7};
     private MpagerAdapter mpagerAdapter;
 
     private LinearLayout Dots_Layout;

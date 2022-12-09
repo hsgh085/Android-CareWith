@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:alpha=".5"
-        android:background="@android:color/white"
+        android:background="@android:color/black"
         android:layout_marginBottom="15dp"
         ></View>
 
@@ -44,7 +44,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="8dp"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         style="?android:borderlessButtonStyle"
         />
     <Button
@@ -56,7 +56,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_marginBottom="8dp"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         style="?android:borderlessButtonStyle"
         />
 

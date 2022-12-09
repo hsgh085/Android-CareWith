@@ -71,6 +71,7 @@
             android:layout_below="@id/choices_layout"
             android:layout_marginTop="50dp"
             android:textSize="20sp"
+            android:backgroundTint="@color/dark_green"
             android:text="제출" />
     </LinearLayout>
 

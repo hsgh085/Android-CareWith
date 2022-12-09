@@ -10,12 +10,12 @@
     <color name="dark_green">#275932</color>
     <color name="orange">#EB672D</color>
 
-    <color name="colorSlide1">#795548</color>
+    <color name="colorSlide1">#8C8C8C</color>
     <color name="colorSlide2">#007688</color>
     <color name="colorSlide3">#598700</color>
-    <color name="colorSlide4">#BDAE24</color>
+    <color name="colorSlide4">#795548</color>
     <color name="colorSlide5">#747474</color>
 
-    <color name="active_dots">#fffafa</color>
+    <color name="active_dots">#10620A</color>
     <color name="inactive_dots">#83878b</color>
 </resources>

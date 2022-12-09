@@ -7,15 +7,17 @@
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/drawable-v24/default_dots.xml" value="0.1" />
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/drawable/question_option.xml" value="0.1" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/activity_guide.xml" value="0.24375" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/activity_guide.xml" value="0.16" />
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/activity_result.xml" value="0.2" />
         <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/activity_splash.xml" value="0.13269927536231885" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide1.xml" value="0.24375" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide2.xml" value="0.24375" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide3.xml" value="0.24375" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide4.xml" value="0.24375" />
-        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide5.xml" value="0.24375" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide1.xml" value="0.1" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide2.xml" value="0.1" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide3.xml" value="0.22813688212927757" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide4.xml" value="0.1" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide5.xml" value="0.1" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide6.xml" value="0.1" />
+        <entry key="..\:/Users/a0108/AndroidStudioProjects/Care_With/app/src/main/res/layout/slide7.xml" value="0.1" />
       </map>
     </option>
   </component>

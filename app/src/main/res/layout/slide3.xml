@@ -2,45 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorSlide3"
+    android:background="@drawable/ap3"
     >
-
-    <ImageView
-        android:id="@+id/img"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:src="@drawable/g3"
-        android:layout_centerHorizontal="true"
-        android:scaleType="centerCrop"
-        android:layout_marginTop="150dp"
-        />
-
-    <TextView
-        android:id="@+id/slide_title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/slide3_title"
-        android:textColor="@android:color/white"
-        android:textSize="40sp"
-        android:textStyle="bold"
-        android:gravity="center_horizontal"
-        android:layout_below="@+id/img"
-        android:layout_marginTop="5dp"
-        />
-
-    <TextView
-        android:id="@+id/slide_detail"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/slide_title"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="12dp"
-        android:gravity="center_horizontal"
-        android:text="@string/slide3_detail"
-        android:textColor="@android:color/white"
-        android:textSize="20sp"
-        />
-
 
 </RelativeLayout>

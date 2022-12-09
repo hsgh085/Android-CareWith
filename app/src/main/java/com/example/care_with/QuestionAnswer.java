@@ -40,19 +40,19 @@ public class QuestionAnswer {
     };
 
     public static String correctAnswers[] = {
+            "아니오",
             "예",
             "예",
             "예",
+            "아니오",
+            "예",
+            "아니오",
             "예",
             "예",
             "예",
+            "아니오",
             "예",
-            "예",
-            "예",
-            "예",
-            "예",
-            "예",
-            "예",
+            "아니오",
             "예",
             "예",
     };
