@@ -3,6 +3,7 @@ package com.example.care_with;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -64,9 +65,9 @@ public class Result extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 new PreferenceManager(getApplicationContext()).clearPreference();
-                Intent intentGuide = new Intent(getApplicationContext(), GuideActivity.class);
-                startActivity(intentGuide);
-                finish();
+                Intent intentHospital = new Intent(Intent.ACTION_VIEW);
+                intentHospital.setData(Uri.parse("https://seoulfriend.or.kr/main/main.asp"));
+                startActivity(intentHospital);
             }
         });
 

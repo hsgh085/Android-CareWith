@@ -48,28 +48,41 @@
         android:background="@color/white"
         android:layout_marginBottom="40dp"
         />
-    <Button
-        android:id="@+id/reBtn"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="다시하기"
-        android:textSize="22sp"
-        android:backgroundTint="@color/dark_green"
-        android:padding="10dp"/>
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/reBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="다시하기"
+            android:textSize="22sp"
+            android:backgroundTint="@color/dark_green"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"/>
+
+        <Button
+            android:id="@+id/hospital"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="상담하기"
+            android:textSize="22sp"
+            android:backgroundTint="@color/dark_green"
+            android:padding="10dp"/>
+
+    </LinearLayout>
+
     <Button
         android:id="@+id/guideBtn"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="안내 가이드 다시보기"
         android:textSize="22sp"
         android:backgroundTint="@color/orange"
         android:padding="10dp"/>
-    <Button
-        android:id="@+id/hospital"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="상담하기"
-        android:textSize="22sp"
-        android:backgroundTint="@color/dark_green"
-        android:padding="10dp"/>
+
+
 </LinearLayout>
