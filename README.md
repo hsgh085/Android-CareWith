@@ -31,13 +31,31 @@
   
 
 ### 📚 안내가이드
-
-<img align=center src="https://user-images.githubusercontent.com/84820008/208084387-a1c8753d-5310-4c19-9694-89031eeb375f.png" width="250"/>
+<div align=center>
+  
+  <img src="https://user-images.githubusercontent.com/84820008/208084387-a1c8753d-5310-4c19-9694-89031eeb375f.png" width="250"/>
+  
+</div>
 
 - 저희 앱 서비스는 노년층을 타겟층으로 설정하였기 때문에 노년층들의 보다 쉬운 앱 사용을 위해서 안내 가이드를 상세하게 만들었다. 
 
 - 안내가이드를 읽는 것을 원치 않을 경우, 건너뛰기를 통해 넘어갈 수 있다.
 
 ### 📋 노인 우울증 자가진단
+<div align=center>
+  
+  <img src="https://user-images.githubusercontent.com/84820008/208087670-f17c99b2-ffc3-48b6-a9aa-13eb1b9dcb3a.png" width="250"/>
+  
+</div>
 
 - 단축형 노인 우울 척도 SGDS를 사용하여 질문지를 구성했다. 
+
+🚩 우울증 결과 측정
+
+<div align=center>
+  
+  <img src="https://user-images.githubusercontent.com/84820008/208088375-68c22060-1d8c-489f-8d17-f253a7a0bde3.png" width="250"/>
+  
+</div>
+
+- 질문지에 대해 모두 응답이 완료되었다면, 우울증 점수를 계산하여 노인 우울증 최종 진단을 내린다.
