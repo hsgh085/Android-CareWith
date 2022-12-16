@@ -1,5 +1,7 @@
 <div align=center>
+  
   ![로고](https://user-images.githubusercontent.com/84820008/208080797-1abb7ffe-f439-49fa-84d4-b5913d07941b.png)
+  
 </div>
 
 #  🌿 프로젝트 소개
@@ -15,6 +17,7 @@
 <br/>
 <br/>
 <br/>
+
 #  🔨 기술 스택
 
 - 개발 환경: Android studio
