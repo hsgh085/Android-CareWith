@@ -34,15 +34,15 @@
 <img src="https://user-images.githubusercontent.com/84820008/208084387-a1c8753d-5310-4c19-9694-89031eeb375f.png" width="250"/>
 
 
-- 저희 앱 서비스는 노년층을 타겟층으로 설정하였기 때문에 노년층들의 보다 쉬운 앱 사용을 위해서 안내 가이드를 상세하게 만들었다. 
+- Care With는 노년층을 타겟층으로 설정하였기 때문에 노년층들의 보다 쉬운 앱 사용을 위해서 안내 가이드를 상세하게 만들었다. 
 
-- 안내가이드를 읽는 것을 원치 않을 경우, 건너뛰기를 통해 넘어갈 수 있다.
+- 안내가이드를 읽는 것을 원치 않을 경우, 건너뛰기를 통해 넘어갈 수 있다.  
 
 ### 📋 노인 우울증 자가진단
 <img src="https://user-images.githubusercontent.com/84820008/208087670-f17c99b2-ffc3-48b6-a9aa-13eb1b9dcb3a.png" width="250"/>
 
 
-- 단축형 노인 우울 척도 SGDS를 사용하여 질문지를 구성했다. 
+- 단축형 노인 우울 척도 SGDS를 사용하여 질문지를 구성했다.  
 
 ### 🚩 우울증 결과 측정
 <img src="https://user-images.githubusercontent.com/84820008/208088375-68c22060-1d8c-489f-8d17-f253a7a0bde3.png" width="250"/>
