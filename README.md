@@ -16,14 +16,12 @@
 
 <br/>
 <br/>
-<br/>
 
 #  🔨 기술 스택
 
 - 개발 환경: Android studio
 - 사용 언어: java
 
-<br/>
 <br/>
 <br/>
 
@@ -34,7 +32,7 @@
 
 ### 📚 안내가이드
 
-<img src="https://user-images.githubusercontent.com/84820008/208084387-a1c8753d-5310-4c19-9694-89031eeb375f.png" width="250"/>
+<img align=center src="https://user-images.githubusercontent.com/84820008/208084387-a1c8753d-5310-4c19-9694-89031eeb375f.png" width="250"/>
 
 - 저희 앱 서비스는 노년층을 타겟층으로 설정하였기 때문에 노년층들의 보다 쉬운 앱 사용을 위해서 안내 가이드를 상세하게 만들었다. 
 
